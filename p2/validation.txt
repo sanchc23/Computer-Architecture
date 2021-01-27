@@ -1,0 +1,71 @@
+PS C:\ECE 552\project\p1> java Vcheck addsub_4bit.sv
+End of file addsub_4bit.sv. Hash = -1049520053
+PS C:\ECE 552\project\p1> java Vcheck addsub_16bit.sv
+End of file addsub_16bit.sv. Hash = -409176720
+PS C:\ECE 552\project\p1> java Vcheck ALU.sv
+End of file ALU.sv. Hash = 1324460903
+PS C:\ECE 552\project\p1> java Vcheck BitCell.sv
+Line 3: Bad keyword inout
+End of file BitCell.sv. Hash = -1245848874
+PS C:\ECE 552\project\p1> java Vcheck carrylook_4bit.sv
+End of file carrylook_4bit.sv. Hash = 1735941768
+PS C:\ECE 552\project\p1> java Vcheck control_unit.sv
+End of file control_unit.sv. Hash = 90054264
+PS C:\ECE 552\project\p1> java Vcheck cpu.sv
+End of file cpu.sv. Hash = -759117328
+PS C:\ECE 552\project\p1> java Vcheck D-Flip-Flop.sv
+Could not open Verilog source file D-Flip-Flop.sv
+PS C:\ECE 552\project\p1> java Vcheck D-Flip-Flop.v
+Line 15: Bad keyword posedge
+Line 15: Always without case(x)
+End of file D-Flip-Flop.v. Hash = -866112493
+PS C:\ECE 552\project\p1> java Vcheck PC.sv
+End of file PC.sv. Hash = 1751667858
+PS C:\ECE 552\project\p1> java Vcheck PC_control.sv
+End of file PC_control.sv. Hash = -1408145289
+PS C:\ECE 552\project\p1> java Vcheck PSA_16bit.sv
+End of file PSA_16bit.sv. Hash = -66627068
+PS C:\ECE 552\project\p1> java Vcheck ReadDecoder_4_16.sv
+End of file ReadDecoder_4_16.sv. Hash = -561003077
+PS C:\ECE 552\project\p1> java Vcheck WriteDecoder_4_16.sv
+End of file WriteDecoder_4_16.sv. Hash = 224665233
+PS C:\ECE 552\project\p1> java Vcheck reduction_unit.sv
+End of file reduction_unit.sv. Hash = 837715051
+PS C:\ECE 552\project\p1> java Vcheck Register.sv
+Line 4: Bad keyword inout
+End of file Register.sv. Hash = 995255482
+PS C:\ECE 552\project\p1> java Vcheck RegisterFile.sv
+Line 5: Bad keyword inout
+End of file RegisterFile.sv. Hash = 543850906
+PS C:\ECE 552\project\p1> java Vcheck Shifter.sv
+End of file Shifter.sv. Hash = -1654699512
+PS C:\ECE 552\project\p1>End of file addsub_16bit.sv. Hash = -409176720
+End of file addsub_4bit.sv. Hash = -1049520053
+End of file addsub_carrylook_16bit.sv. Hash = -1563347426
+End of file ALU.sv. Hash = 1324460903
+Line 3: Bad keyword inout
+End of file BitCell.sv. Hash = -1245848874
+End of file carrylook_4bit.sv. Hash = 1735941768
+End of file control_unit.sv. Hash = -1305444473
+End of file cpu.sv. Hash = 22152505
+Line 15: Bad keyword posedge
+Line 15: Always without case(x)
+End of file D-Flip-Flop.v. Hash = -866112493
+End of file EX_MEM.sv. Hash = 748307303
+End of file fwd_unit.sv. Hash = 2107104772
+End of file hazard_detect.sv. Hash = 1626026911
+End of file ID_EX.sv. Hash = 1061468124
+End of file IF_ID.sv. Hash = -1019829133
+End of file MEM_WB.sv. Hash = 409349378
+End of file PADDSB_16bit.sv. Hash = -1932475105
+End of file PC.sv. Hash = 1751667858
+End of file PC_control.sv. Hash = -2026125714
+End of file PSA_16bit.sv. Hash = -66627068
+End of file ReadDecoder_4_16.sv. Hash = -561003077
+End of file reduction_unit.sv. Hash = 837715051
+Line 4: Bad keyword inout
+End of file Register.sv. Hash = 995255482
+Line 5: Bad keyword inout
+End of file RegisterFile.sv. Hash = 1170948607
+End of file Shifter.sv. Hash = -1654699512
+End of file WriteDecoder_4_16.sv. Hash = 224665233
