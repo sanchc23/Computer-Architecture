@@ -8,3 +8,5 @@ In phase 1, we implemented a simple single-stage processor with 16 possible oper
 In phase 2, we converted the processor into a 5-stage one.
 
 In phase 3, we added a cache hierarchy, and changed various components for proficiency.
+
+Taken in the Fall of 2020.
